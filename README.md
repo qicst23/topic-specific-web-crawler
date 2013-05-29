@@ -5,7 +5,7 @@ A distributed crawler that traverses the web, looking for HTML and XML documents
 `Spring 2013`
 
 ## _Skills_
-    Java, Servlet, Berkeley DB, XML, XPath, XSLT
+        Java, Servlet, Berkeley DB, XML, XPath, XSLT
 
 ## _Contribution_
 1. Built a web application that runs on web server implemented by me that allows users to create topic-specific "channels" defined by XPaths expressions, and displays mathched documents using XSLT.
@@ -14,6 +14,7 @@ A distributed crawler that traverses the web, looking for HTML and XML documents
 
 
 ## _Instruction_
+* Course name: `CIS555, Internet & Web Systems, Spring 2013, University of Pennsylvania`
 * Run crawler: `XPathCrawler.java`
 * Run web interface: `CrawlerServlet.java`
 * Operational Systems: `Mac`
