@@ -20,4 +20,8 @@ A distributed crawler that traverses the web, looking for HTML and XML documents
 * Operational Systems: `Mac`
 * Links: [view project specification](http://www.cis.upenn.edu/~cis455/handouts/Homework-2.pdf)
 
+## _How to Run_
+* java -cp crawler.jar:target/WEB-INF/lib/* edu.upenn.cis455.crawler.XPathCrawler http://crawltest.cis.upenn.edu/ /Users/Alantyy/Desktop/BerkeleyDB 100 100
+
+
 
